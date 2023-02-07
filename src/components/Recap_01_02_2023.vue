@@ -40,7 +40,7 @@ export default {
     filterString() {
       // loop through the colors
       // get color
-      // do check to confirm if searchvalue is in the currentColor
+      // do check to confirm if searchValue is in the currentColor
 
       const newArray = [];
 
